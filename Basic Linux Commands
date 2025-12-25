@@ -1,0 +1,127 @@
+File & Directory Commands
+
+ls – List files and directories
+
+ls -l – List files with details
+
+ls -a – Show hidden files
+
+pwd – Show current directory path
+
+cd – Change directory
+
+mkdir – Create a directory
+
+rmdir – Delete empty directory
+
+rm – Delete files
+
+rm -r – Delete directory and contents
+
+cp – Copy files or folders
+
+mv – Move or rename files
+
+touch – Create empty file
+
+stat – Show file details
+
+File Viewing & Editing
+
+cat – Display file content
+
+less – View file page by page
+
+more – View file content
+
+head – Show first lines of file
+
+tail – Show last lines of file
+
+tail -f – Monitor file changes
+
+nano – Edit file using nano editor
+
+vi – Edit file using vi editor
+
+Permission & Ownership
+
+chmod – Change file permissions
+
+chown – Change file owner
+
+chgrp – Change group ownership
+
+System Information
+
+uname – Show system information
+
+uname -a – Show full system details
+
+hostname – Show system hostname
+
+uptime – Show system running time
+
+df -h – Disk usage information
+
+du -h – Folder size information
+
+free -h – Memory usage
+
+top – Show running processes
+
+htop – Advanced process viewer
+
+User & Process Management
+
+whoami – Show current user
+
+who – Show logged-in users
+
+ps – Show running processes
+
+kill – Stop a process
+
+kill -9 – Force stop a process
+
+Networking Commands
+
+ip a – Show IP address
+
+ping – Check network connectivity
+
+netstat – Network status
+
+ss – Show socket information
+
+curl – Access URL data
+
+wget – Download files from internet
+
+Package & System Control
+
+sudo – Run command as administrator
+
+apt update – Update package list
+
+apt install – Install software
+
+reboot – Restart system
+
+shutdown – Shutdown system
+
+clear – Clear terminal screen
+
+Conclusion
+
+These 50 Linux commands are enough for:
+
+File handling
+
+User management
+
+Networking
+
+System monitoring
+
+Server administration
